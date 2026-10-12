@@ -1,0 +1,15 @@
+[worldserver]
+
+########################################
+# mod-bot-quiet-rolls
+#
+# Bots pass on group loot without a "<name> passed on: [item]" line in the players' chat window.
+########################################
+
+#
+#    BotQuietRolls.Enable
+#        Description: Master switch.
+#        Default:     1
+#
+
+BotQuietRolls.Enable = 1
